@@ -11,7 +11,7 @@ body{
     width: 100%;
     font-family: sans-serif, 'Helvetica Newx',"Helvetica Neue",Helvetica;
     min-height: 50vh;
-    background: url(/image/background.png);
+    background: url(background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
